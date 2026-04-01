@@ -8,7 +8,7 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
 
-        Usuario usuario = new Usuario("admin", "123");
+         usuario = new Usuario("admin", "123");
         Carrinho carrinho = new Carrinho();
 
         boolean logado = false;
